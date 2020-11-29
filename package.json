@@ -1,0 +1,10 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "violateer <1828257089@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.10"
+  }
+}
